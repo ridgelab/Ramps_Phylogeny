@@ -1,0 +1,2 @@
+mxram 34000
+nstates NOGAPS ;proc vertebrate_mammalian.tnt; log analysisMammal; hold 100; mult=replic 2; bbreak=tbr; nelsen *; taxname= ; export - vertebrate_mammalian.nex ; ttags= ; resample replications 100; keep 1; ttags ); ttags ; export < vertebrate_mammalian_boots.tre
